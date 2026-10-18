@@ -1,0 +1,18 @@
+{
+  "name": "urdu-rtl",
+  "displayName": "Urdu RTL & BiDi Typography Assistant",
+  "version": "1.2.0",
+  "description": "Native Urdu Right-to-Left (RTL) formatting, bidirectional typography isolation, Nastaliq line-height tuning, and Socratic architectural interrogation for Google Antigravity.",
+  "author": {
+    "name": "Muhammad Rafiq",
+    "url": "https://github.com/libragik"
+  },
+  "homepage": "https://github.com/libragik/AGY-URDU",
+  "repository": "https://github.com/libragik/AGY-URDU",
+  "license": "MIT",
+  "suggestedPrompts": [
+    "اردو میں درست RTL اور BiDi فارمیٹنگ کے ساتھ جواب دیں",
+    "اس پروجیکٹ کے آرکیٹیکچر کا اردو میں جائزہ لیں (/interview-me-urdu)",
+    "Convert this technical documentation into professional Urdu RTL Markdown"
+  ]
+}
